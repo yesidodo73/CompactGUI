@@ -169,10 +169,10 @@
     <value>최대 압축 스레드 수</value>
   </data>
   <data name="SetCompression_HDDThread" xml:space="preserve">
-    <value>하드 디스크일 경우 하나의 스레드만 사용하기</value>
+    <value>하드 디스크일 경우 하나의 스레드만 사용</value>
   </data>
   <data name="SetCompression_NonSteamFolders" xml:space="preserve">
-    <value>Steam 게임이 아닌 폴더도 압축량 추정하기 (베타)</value>
+    <value>Steam 외의 폴더도 압축량 추정 (베타)</value>
   </data>
   <data name="SetSystemIntegration" xml:space="preserve">
     <value>시스템 연동</value>
